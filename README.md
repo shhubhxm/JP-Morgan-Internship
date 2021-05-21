@@ -19,7 +19,7 @@ My Aim: Take an incomplete setup of Perspective, i.e. a graph that updates manua
 ## Traders Dashboard
 The Data is display visually for traders. I used perspective to create the chart for the trader’s dashboard.
 
-My Aim: To use Perspective to generate a chart that displays the data feed in a clear and visually appealing manner for traders to monitor this trading strategy. Basically, I modified the existing live chart to be able to (1) track and display the ratio between the two stock prices (2) show the historical upper and lower bounds of the stocks' ratio (3) and finally, show 'alerts' whenever these bounds are crossed by the ratio.
+My Aim: To use Perspective to generate a chart that displays the data feed in a clear and visually appealing manner for traders to monitor this trading strategy. Basically, I modified the existing live chart to be able to (1) track and display the ratio between the two stock prices (2) shows the historical upper and lower bounds of the stocks' ratio (3) and finally, shows 'alerts' whenever these bounds are crossed by the ratio.
 
 * The Graph tracks the ratio between two stocks over time and NOT the two stocks’ top_ask_price over time.
 * The graph also tracks the historical upper and lower bounds of the stocks' ratio.
