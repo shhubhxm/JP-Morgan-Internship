@@ -5,7 +5,7 @@ Interface with a stock price data feed and analysis of the data.
 
 My Aim: I had to process the data feed of stock A and stock B’s price to enable us to analyse when trading for the stock should occur.
 
-2. Created the getRatio function, getDataPoint and main functions.
+1. Created the getRatio function, getDataPoint and main functions.
 
 ## Data Visualisation 
 Using JP Morgan Chase's frameworks and tools Implement JP Morgan Chase’s Perspective open source code in preparation for data visualization was prepared by me.
