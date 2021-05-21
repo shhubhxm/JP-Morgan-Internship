@@ -8,7 +8,7 @@ My Aim: I had to process the data feed of stock A and stock B’s price to enabl
 * Created the getRatio function, getDataPoint and main functions.
 
 ## Data Visualisation 
-Using JP Morgan Chase's frameworks and tools Implement JP Morgan Chase’s Perspective open source code in preparation for data visualization was prepared by me.
+Using JP Morgan Chase's frameworks and tools I Implemented JP Morgan Chase’s Perspective open source code for the preparation of data visualization.
 
 My Aim: Take an incomplete setup of Perspective, i.e. a graph that updates manually, and make it work with the code such that it now updates automatically by continuously requesting from the server application.
 
